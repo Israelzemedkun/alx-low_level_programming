@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/*
+/**
  * main -print possible combination of two diffrent numbers in ascending order.
  *
  * Return:0.
