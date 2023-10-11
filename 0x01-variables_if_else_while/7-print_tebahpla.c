@@ -3,7 +3,7 @@
 /**
  * main- print the lowercase alpahbet in reverse.
  *
- * Return: 0.  
+ * Return: 0. 
  */
 int main(void)
 {
