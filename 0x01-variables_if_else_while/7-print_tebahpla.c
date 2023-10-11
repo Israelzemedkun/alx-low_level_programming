@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/**
+ * main- print the lowercase alpahbet in reverse.  
+ */
 int main(void)
 {
 	char letter;
