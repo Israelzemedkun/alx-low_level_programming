@@ -3,6 +3,7 @@
 /**
  * main - print all possible combination of single-digit numbers.  
  *
+ * Return:0.
  */
 int main(void)
 {
