@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main- print the lowercase alpahbet in reverse.  
+ * main- print the lowercase alpahbet in reverse.
+ *
+ * Return: 0.  
  */
 int main(void)
 {
